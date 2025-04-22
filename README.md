@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Khatik</h1>
-<h3 align="center">A passionate fullstack {MERN} developer from India</h3>
+<h3 align="center">A software developer from India [JavaScript]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkhatik&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkhatik" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shubham_ktk" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_ktk?logo=twitter&style=for-the-badge" alt="shubham_ktk" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript React.js Next.js Express.js Node.js MongoDB**
+- 🌱 I’m currently learning **DSA system design and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://devfolio.co/@shubhamkhatik](https://devfolio.co/@shubhamkhatik)
+- 👨‍💻 Check my portfolio at [https://devfolio.co/@shubhamkhatik](https://shubhamkhatik.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@shubhamkhatik](https://hashnode.com/@shubhamkhatik)
 
