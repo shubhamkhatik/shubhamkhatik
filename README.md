@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA system design and DevOps**
 
-- 👨‍💻 Check my portfolio at [https://devfolio.co/@shubhamkhatik](https://shubhamkhatik.vercel.app/)
+- 👨‍💻 Check my portfolio at [shubhamkhatik](https://shubhamkhatik.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@shubhamkhatik](https://hashnode.com/@shubhamkhatik)
+- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/@shubhamkhatik)
 
 - 💬 Ask me about **Frontend and Backend**
 
