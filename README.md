@@ -1,44 +1,72 @@
-<h1 align="center">Hi 👋, I'm Shubham Khatik</h1>
-<h3 align="center">A software developer from India [JavaScript]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkhatik&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkhatik" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Hey!+I'm+Shubham+Khatik+👋;Frontend-Focused+Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;I+Build+Fast%2C+Scalable%2C+Beautiful+Web+Apps)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkhatik" alt="shubhamkhatik" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/shubham_ktk" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_ktk?logo=twitter&style=for-the-badge" alt="shubham_ktk" /></a> </p>
+## 🚀 About Me
+I’m a **frontend-focused full-stack developer** passionate about building  
+high-performance, secure, and user-friendly web applications.
 
-- 🌱 I’m currently learning **DSA system design and DevOps**
+- ⚡ Focused on **React.js**, **Next.js**, **Node.js**, and **TypeScript**
+- 🔍 Love **performance optimization** & **clean architecture**
+- 💡 Always learning, experimenting, and shipping new ideas
 
-- 👨‍💻 Check my portfolio at [shubhamkhatik](https://shubhamkhatik.vercel.app/)
+---
 
-- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/@shubhamkhatik)
 
-- 💬 Ask me about **Frontend and Backend**
+## 🛠 My Toolbox
+**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
+**DevOps / Cloud:** AWS, Docker, CI/CD, Nginx  
+**Other:** GraphQL, WebSockets, Jest, TDD
 
-- 📫 How to reach me **shubhamkhatik2012@gmail.com**
+---
 
-- 📄 Know about my experiences [https://devfolio.co/@shubhamkhatik](https://devfolio.co/@shubhamkhatik)
+## 🌟 Featured Projects
+| Project | Tech Stack | Live Demo | Code |
+|---------|------------|-----------|------|
+| Namaste YouTube | React.js, Redux, Tailwind CSS, YouTube API | [Live](https://namaste-youtube-three.vercel.app/) | [GitHub](https://github.com/shubhamkhatik/namaste-youtube) |
+| Food Villa (Swiggy Clone) | React.js, Swiggy API, Payment Gateway | [Live](https://main--foodvillaswiggy.netlify.app/) | [GitHub](https://github.com/shubhamkhatik/food-villa) |
+| Netflix GPT | React.js, OpenAI API, TMDB API, Firebase | [Live](https://netflix-123fe.web.app/) | [GitHub](https://github.com/shubhamkhatik/netflix-gpt) |
+| DevTinder | React.js, Node.js, MongoDB, Socket.io | [Live](https://devtinder-frontend-pearl.vercel.app/) | [GitHub](https://github.com/shubhamkhatik/devtinder_frontend) |
 
-- ⚡ Fun fact **I am Lazy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/shubham2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shubham2012" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/shubhamkhatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shubhamkhatik" height="30" width="40" /></a>
-<a href="https://twitter.com/shubham_ktk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_ktk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamkhatik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamkhatik/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12509528/shubham-khatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12509528/shubham-khatik" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/shubhamkhatik2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shubhamkhatik2012" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shubham_ktk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shubham_ktk/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shubhamkhatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubhamkhatik" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhamkhatik2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamkhatik2012" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkhatik&show_icons=true&locale=en&layout=compact" alt="shubhamkhatik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkhatik&show_icons=true&locale=en" alt="shubhamkhatik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkhatik&" alt="shubhamkhatik" /></p>
+
+## 🛠 Tech Arsenal
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+| Project | Description | Live Demo | Code |
+|---------|-------------|-----------|------|
+| **Namaste YouTube** | YouTube Clone with React.js, Redux, Tailwind | [Live](https://namaste-youtube-three.vercel.app/) | [Repo](https://github.com/shubhamkhatik/namaste-youtube) |
+| **Food Villa** | Swiggy Clone with payment integration | [Live](https://main--foodvillaswiggy.netlify.app/) | [Repo](https://github.com/shubhamkhatik/food-villa) |
+| **Netflix GPT** | AI movie recommendations | [Live](https://netflix-123fe.web.app/) | [Repo](https://github.com/shubhamkhatik/netflix-gpt) |
+| **DevTinder** | Social platform for devs | [Live](https://devtinder-frontend-pearl.vercel.app/) | [Repo](https://github.com/shubhamkhatik/devtinder_frontend) |
+
+---
+
+
+
+## 🌐 Let’s Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamkhatik.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkhatik/)
+[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shubham_ktk)
+
+---
+
+<p align="center">✨ Code. Learn. Share. Repeat. ✨</p>
