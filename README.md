@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Hey!+I'm+Shubham+Khatik+👋;Frontend-Focused+Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;I+Build+Fast%2C+Scalable%2C+Beautiful+Web+Apps)](https://git.io/typing-svg)
 
 ---
+🌐 [Portfolio](https://shubhamkhatik.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/shubhamkhatik/) | 🐦 [X](https://x.com/shubham_ktk) | 💻 [GitHub](https://github.com/shubhamkhatik) | 📝 [Dev.to](https://dev.to/shubhamkhatik)
 
 ## 🚀 About Me
 I’m a **frontend-focused full-stack developer** passionate about building  
