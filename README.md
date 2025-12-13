@@ -69,5 +69,6 @@ high-performance, secure, and user-friendly web applications.
 [![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shubham_ktk)
 
 ---
-
+## How I Learn
+<“For any new topic, start from real problems and intended outcomes; understand the core purpose and mental model before details; learn progressively from fundamentals to advanced use through practical workflows; ground every concept in concrete examples or real-world cases; study how it is actually used in real environments, not ideal ones; evaluate tradeoffs, constraints, failure modes, and rejection criteria; compare alternatives and measure impact; reinforce understanding through application, reflection, and teaching; revisit over time to refine intuition; and use tools, including AI, as accelerators—never substitutes—for fundamental understanding, ethical judgment, and real-world execution.”>
 <p align="center">✨ Code. Learn. Share. Repeat. ✨</p>
