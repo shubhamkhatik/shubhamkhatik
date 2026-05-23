@@ -22,6 +22,11 @@ high-performance, secure, and user-friendly web applications.
 **Other:** GraphQL, WebSockets, Jest, TDD
 
 ---
+## 🛠 Technical Skills & Stack
+
+I maintain a detailed, interactive breakdown of my frontend skills, proficiency levels, and related projects.
+
+👉 **[View My Interactive Skills Matrix (Notion) ↗](https://thorn-pansy-71b.notion.site/TECHNICAL-SKILL-7b8bc1534cbb833e808381d6dae4e3a3?pvs=74)**
 
 ## 🌟 Featured Projects
 | Project | Tech Stack | Live Demo | Code |
